@@ -1,1 +1,3 @@
-# work-day-scheduler
+# Project Name and Description
+
+Work Day Scheduler
